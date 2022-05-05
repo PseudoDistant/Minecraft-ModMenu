@@ -1,5 +1,7 @@
 ![Mod Menu](https://i.imgur.com/dMYWAjn.png)
 
+Hardfork of Terraformers ModMenu
+
 Adds a screen for viewing a list of installed mods. 
 * The menu is searchable and sortable, libraries can be hidden. 
 * Client-side and API mods are marked with a special badge in the list.
@@ -31,5 +33,10 @@ If you are a developer and would like to see what metadata Mod Menu will make us
 Mod Menu is being translated using [Weblate](https://hosted.weblate.org/engage/fabric-modmenu/), a web tool designed to ease translating for both developers and translators.
 
 [![Translation status](https://hosted.weblate.org/widgets/fabric-modmenu/-/svg-badge.svg)](https://hosted.weblate.org/engage/fabric-modmenu/)
+
+### Why the fork?
+
+Terraformers is complicit with, and is mostly managed by, associates/members of QuiltMC, an organization known to spread drama by means of lying, either by taking events out of context, or outright making them up.
+QuiltMC is also known to be against the spirit of open source, being complicit in things such as OK Zoomer's anti-Fabric DRM, as well as threatening DMCA over Creative Commons licensed artwork.
 
 ### Mod Menu is a mod for Fabric, and there are no plans to port this mod to Forge.
